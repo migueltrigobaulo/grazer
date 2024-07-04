@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Grazer Coding Test</string>
+    <string name="login_button">Login</string>
+    <string name="sign_in">Sign in</string>
+    <string name="register_button">Register</string>
+    <string name="email_label">Email</string>"
+    <string name="password_label">Password</string>
+    <string name="enter_credentials">Enter your credentials</string>
 </resources>
